@@ -1,0 +1,18 @@
+# Session – 2026-02-17
+
+## Topics covered
+- Tables
+
+## What I understood
+- Tables are a structure with columns and rows, where we can store organized information. We hace id, foreign keys, which are useful when you need to reference data from different tables. 
+
+- There are different types of opperations that helps us work with tables. For example join. Join allows to merge data on two or more tables.
+        - INNER JOIN
+        - LEFT  JOIN
+        - RIGHT JOIN
+        - FULL JOIN
+
+- Select is used to search some especific data from the table. "SELECT (''') FROM ('''')  WHERE ('''')"
+- Conditions
+
+
