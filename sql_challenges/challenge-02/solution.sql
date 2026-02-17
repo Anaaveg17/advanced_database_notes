@@ -32,3 +32,12 @@ SELECT DISTINCT building_name, role
 FROM buildings 
   LEFT JOIN employees
     ON building_name = building;
+
+
+-- Extra
+SELECT p.page_id 
+FROM pages p
+LEFT JOIN page_likes pl
+ON p.page_id = pl.page_id
+WHERE pl.user_id IS NULL
+ORDER BY page_id;
