@@ -8,7 +8,7 @@ SELECT role, AVG(years_employed)
 FROM employees
 GROUP BY role;
 
---ex3
+--ex3.
 SELECT building, SUM(years_employed) 
 FROM employees
 GROUP BY building;
