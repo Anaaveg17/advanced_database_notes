@@ -6,4 +6,4 @@ as well as from freesql.com Aggregating Rows tutorial
 (try-it)
 
 ## Solution
-You can find the solution at [solutions](solutions.sql)
+You can find the solution at [solutions](solutions.sql).

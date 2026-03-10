@@ -33,7 +33,7 @@ GROUP BY role
 HAVING role = "Engineer";
 
 
--- Try It 4
+-- Try It 4.
 select count (distinct shape) number_of_shapes,
        stddev (distinct weight) distinct_weight_stddev
 from   bricks;
