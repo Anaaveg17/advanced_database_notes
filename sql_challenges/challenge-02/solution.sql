@@ -5,7 +5,7 @@ FROM movies
   JOIN boxoffice
     ON movies.id = boxoffice.movie_id;
 
--- 2
+-- 2.
 SELECT title, domestic_sales, international_sales 
 FROM movies
   JOIN boxoffice

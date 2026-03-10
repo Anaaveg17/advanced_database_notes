@@ -4,4 +4,4 @@
 Solve first 6 and 7 sections
 
 ## Solution
-You can find the solution at [solutions](solutions.sql)
+You can find the solution at [solutions](solutions.sql).
