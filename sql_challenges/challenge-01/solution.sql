@@ -9,7 +9,7 @@ SELECT title, year FROM movies;
 
 SELECT * FROM movies;
 
---Ex 2
+--Ex 2.
 SELECT title FROM movies WHERE id = 6;
 
 SELECT title FROM movies WHERE year BETWEEN 2000 AND 2010;
