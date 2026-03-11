@@ -1,4 +1,4 @@
--- 10
+-- 10.
 
 --ex1 
 SELECT MAX(years_employed) FROM employees;

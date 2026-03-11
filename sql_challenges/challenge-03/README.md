@@ -1,4 +1,4 @@
-# lesson 10 and 11 https://sqlbolt.com/
+# Lesson 10 and 11 https://sqlbolt.com/.
 
 ## Problem
 Solve first 10 and 11 sections
