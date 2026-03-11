@@ -1,4 +1,4 @@
--- Ex 6
+-- Ex 6.
 
 -- 1 
 FROM movies
