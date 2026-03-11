@@ -1,4 +1,4 @@
---EX 1
+--EX 1.
 
 --EX 2
 WITH ranked AS (
