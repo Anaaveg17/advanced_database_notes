@@ -1,4 +1,5 @@
---Ex 1
+--Ex 1.
+
 SELECT title FROM movies;
 
 SELECT director FROM movies;
