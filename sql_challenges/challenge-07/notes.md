@@ -1,0 +1,4 @@
+- Vector search is finding things based on meaning not exact words.
+- Text gets turned into vectors (numbers) using embeddings.
+- Similar meaning means vectors are closer together.
+- Useful for search, recommendations, AI apps.
