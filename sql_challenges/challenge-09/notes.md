@@ -1,0 +1,2 @@
+- COMMIT saves all the changes permanently, while ROLLBACK cancels them if there is a mistake.
+- Procedures can automate tasks inside the database.
