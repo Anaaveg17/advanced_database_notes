@@ -1,0 +1,12 @@
+- A schema is owned by one database user
+- Schemas contain tables, indexes, triggers, views, and sequences
+- `DBMS_METADATA.GET_DDL` generates SQL to recreate objects
+- `EMIT_SCHEMA = FALSE` removes schema names from DDL
+- `STORAGE = FALSE` removes extra storage details
+- Dependencies are important during restore
+- Tables should be restored before constraints and triggers
+- Foreign keys can create dependency problems
+- `user_objects` shows schema objects
+- `user_dependencies` shows relationships between objects
+- Validation queries help confirm restore success
+- DBMS_METADATA exports structure only, not data
